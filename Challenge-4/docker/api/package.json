@@ -1,0 +1,16 @@
+{
+    "scripts": {
+      "start": "node index-p.js"
+    },
+    "name": "node-api-postgres",
+    "version": "1.0.0",
+    "main": "index-p.js",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "description": "RESTful API with Node.js, Express, and PostgreSQL",
+    "dependencies": {
+      "express": "^4.18.3",
+      "psql": "^16.2"
+    }
+  }
